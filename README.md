@@ -16,7 +16,8 @@ Supported models: JDM‑001 / 011 / 020 / 030 / 040 / 050 / 055
 Sony DualSense Controller 
 Alpha support — tested on model BDM‑010
 
-🔧 Flashing the Firmware- download zip -includes firmware, app and Guide.
+🔧 Flashing the Firmware- download zip -includes firmware, app and Guide. https://mega.nz/file/70QRVJ5Y#8SCg3qcpkyi8exqQUcCqC6rrmNl55X7vsA-Xv6VWyuI
+
 Hold BOOTSEL on the Pico 2W while plugging it into your PC.
 
 A drive named RPI‑RP2 will appear.
