@@ -1,3 +1,6 @@
+<img width="2112" height="480" alt="vegueta1 1280x300 pixels" src="https://github.com/user-attachments/assets/d387b388-655f-490f-aa71-bc88680117a7" />
+
+
 Raspberry-Pi-Pico-2W--Strike-Pi-Core
 Strike Pi Core is a next‑generation, open‑hardware controller enhancement platform built for gamers who want professional‑grade mods without the professional‑grade price tag. Powered by the Raspberry Pi Pico 2W microcontroller, Strike Pi Core delivers rapid‑fire, burst‑fire, anti‑recoil, macro scripting, and tactical assists with the precision of commercial devices like Cronus Zen — but completely free and DIY‑friendly.
 
