@@ -1,4 +1,6 @@
-<img width="2112" height="480" alt="vegueta1 1280x300 pixels" src="https://github.com/user-attachments/assets/d387b388-655f-490f-aa71-bc88680117a7" />
+<img width="1376" height="768" alt="Strike Pi Core Studio banner 1280x300 pixels" src="https://github.com/user-attachments/assets/95aaafd8-9ac0-4129-a83c-70ef751dfdb2" />
+
+
 
 
 Raspberry-Pi-Pico-2W--Strike-Pi-Core
