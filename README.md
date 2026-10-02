@@ -21,7 +21,7 @@ Supported models: JDM‑001 / 011 / 020 / 030 / 040 / 050 / 055
 Sony DualSense Controller 
 Alpha support — tested on model BDM‑010
 
-🔧 Flashing the Firmware- download zip -includes firmware, app and Guide. https://mega.nz/file/70QRVJ5Y#8SCg3qcpkyi8exqQUcCqC6rrmNl55X7vsA-Xv6VWyuI
+🔧 Flashing the Firmware- download zip -includes firmware, app and Guide. [https://mega.nz/file/70QRVJ5Y#8SCg3qcpkyi8exqQUcCqC6rrmNl55X7vsA-Xv6VWyuI](https://mega.nz/file/u4AmDRYJ#l3NLY6-zH1ymGhKERPmI0UHhaOsxU0mcK-0HMKYrGgg)
 
 Hold BOOTSEL on the Pico 2W while plugging it into your PC.
 
@@ -52,8 +52,24 @@ Slow blink (~1 Hz): Controller connected and streaming input
 🛠 Configuration — Strike Pi Core Studio Only can be configured on PC
 Use the Windows companion app to configure: Rapid‑fire, Burst‑fire, Anti‑recoil, Macros, Assists and Profiles.  
 
-<img width="2553" height="1403" alt="Strike Pi Core Studio-BETA" src="https://github.com/user-attachments/assets/2ebbdb90-98cb-4d79-9dbe-9c425bc1334b" />
-<img width="2507" height="386" alt="Strike Pi Core Studio-BETA-" src="https://github.com/user-attachments/assets/b118b11b-6576-4fbf-bc4c-7d2c0a8ebfa7" />
+<img width="2517" height="399" alt="Screenshot 2026-10-02 170304" src="https://github.com/user-attachments/assets/b0f7e29c-6c73-4fd2-b4d5-21e51acbe4fd" />
+<img width="2550" height="1401" alt="Screenshot 2026-10-02 170247" src="https://github.com/user-attachments/assets/592d31b2-e467-419d-b904-8f85c2c94425" />
+Update Log — Smart Anti‑Recoil & UI Improvements
+
+ Smart Anti‑Recoil Enhancements
+
+Added Weapon Profile Locking — tune recoil on the test range and save the learned pattern.
+
+Smart Anti‑Recoil no longer overwrites locked profiles during gameplay.
+
+Improved adaptive learning speed and consistency.
+
+Better handling of mixed fire‑rate weapons and burst‑hybrid recoil patterns.
+
+
+ UI & Visual Improvements
+
+Updated the Strike Pi Core Studio app icon with a cleaner, modern look.
 
 All changes apply instantly through the Strike Pi Core Protocol. After that you can use it without the app open or on the other devices that supported.
 
