@@ -52,8 +52,10 @@ Slow blink (~1 Hz): Controller connected and streaming input
 🛠 Configuration — Strike Pi Core Studio Only can be configured on PC
 Use the Windows companion app to configure: Rapid‑fire, Burst‑fire, Anti‑recoil, Macros, Assists and Profiles.  
 
-<img width="2517" height="399" alt="Screenshot 2026-10-02 170304" src="https://github.com/user-attachments/assets/b0f7e29c-6c73-4fd2-b4d5-21e51acbe4fd" />
+
 <img width="2550" height="1401" alt="Screenshot 2026-10-02 170247" src="https://github.com/user-attachments/assets/592d31b2-e467-419d-b904-8f85c2c94425" />
+<img width="2517" height="399" alt="Screenshot 2026-10-02 170304" src="https://github.com/user-attachments/assets/f9239390-d421-4e15-ac79-97623ada89ff" />
+
 Update Log — Smart Anti‑Recoil & UI Improvements
 
  Smart Anti‑Recoil Enhancements
