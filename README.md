@@ -93,4 +93,74 @@ Android Phones & Tablets
 Supports USB HID gamepads through OTG or USB‑C adapters.
 
 
+coming soon PlayStation 4 console support if you have you own keys
 
+Strike Pi Core Studio V2 Development Update
+​
+I'm excited to share that Strike Pi Core Studio V2 is officially in development, and for the first time I've successfully achieved PS5 DualSense controller support on a PS4 console using Strike Pi Core hardware.
+
+This isn't just a concept anymore. It's currently working on real hardware, and active testing is underway.
+
+Current test setup shown below:
+
+PS5 DualSense and PS4 Controllers connected through Strike Pi Core
+<img width="4080" height="3060" alt="PS4 DualShock 4 JDM-055 " src="https://github.com/user-attachments/assets/2886ae5f-8c24-4727-a44b-5dfc654420e8" />
+
+<img width="4080" height="3060" alt="PS5 DualSense BDM-010" src="https://github.com/user-attachments/assets/9fb7573f-7b12-42cf-a2a7-36e1ae297727" />
+
+What V2 Will Bring​
+Version 2 is much more than a simple update. Nearly every part of the software is being redesigned and improved.
+
+Planned Features​
+🔹 PS4 Console Support with PS5 DualSense Controllers
+
+🔹 Enhanced Authentication System
+
+🔹 Improved Device Detection
+
+🔹 Expanded Rapid Fire Engine
+
+🔹 Advanced Anti-Recoil System
+
+🔹 Improved Macro Creation and Management
+
+🔹 Profile Save / Load Enhancements
+
+🔹 Better Controller Diagnostics
+
+🔹 Firmware Management Improvements
+
+🔹 Hardware Monitoring Tools
+
+🔹 Faster Configuration Deployment
+
+Complete UI Redesign from Scratch​
+One of the largest changes coming in V2 is a complete redesign of the interface.
+
+Rather than building on the existing UI, the application is being rebuilt from the ground up with a cleaner and more modern.
+<img width="2549" height="1407" alt="Strike PI Core v2 0 dashboard" src="https://github.com/user-attachments/assets/0435d0b4-1c63-4ed8-946f-44c1c74bce0a" />
+<img width="2554" height="1404" alt="Strike PI Core v2 0" src="https://github.com/user-attachments/assets/05305888-e407-4153-b36b-df40271172f3" />
+
+Safety and Legal​
+Use your own hardware and keys.
+
+Strike Pi Core does not provide Sony authentication keys, certificates, firmware, or any proprietary materials.
+
+Users must obtain any required identity information from hardware they personally own. Importing data from hardware you do not own may violate local laws, contracts, or platform terms of service.
+
+Owners of a DS4 JDM-011 board can follow this guide to extract identity information from their own hardware:
+
+https://github.com/Vegueta-1/DS4-JDM-011-2014-Firmware-Dump-Identity-Extraction-2026-guide-and-Tools
+
+Current Development Status​
+The hardware, firmware, and software are all being actively tested and refined.
+
+The successful PS4 + DualSense testing marks a major milestone for the project, and development is continuing toward a full V2 release.
+
+Thank you to everyone supporting the project.
+
+More screenshots, testing results, previews, and feature showcases will be shared as development continues.
+
+Strike Pi Core Studio V2 is coming.
+
+Developed by Vegueta1
