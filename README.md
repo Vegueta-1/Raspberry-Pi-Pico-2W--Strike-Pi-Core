@@ -93,7 +93,7 @@ Android Phones & Tablets
 Supports USB HID gamepads through OTG or USB‑C adapters.
 
 
-coming soon PlayStation 4 console support if you have you own keys
+coming soon PlayStation 4 console support if you have you own keys and Works with the PS5 and PS4 Controller. PS3 Console - Buttons layout support the Home Button works with the PS5 and PS4 Controller no need of the PS3 controller at all.
 
 Strike Pi Core Studio V2 Development Update
 ​
@@ -138,8 +138,7 @@ Complete UI Redesign from Scratch​
 One of the largest changes coming in V2 is a complete redesign of the interface.
 
 Rather than building on the existing UI, the application is being rebuilt from the ground up with a cleaner and more modern.
-<img width="2549" height="1407" alt="Strike PI Core v2 0 dashboard" src="https://github.com/user-attachments/assets/0435d0b4-1c63-4ed8-946f-44c1c74bce0a" />
-<img width="2554" height="1404" alt="Strike PI Core v2 0" src="https://github.com/user-attachments/assets/05305888-e407-4153-b36b-df40271172f3" />
+
 
 Safety and Legal​
 Use your own hardware and keys.
@@ -162,5 +161,11 @@ Thank you to everyone supporting the project.
 More screenshots, testing results, previews, and feature showcases will be shared as development continues.
 
 Strike Pi Core Studio V2 is coming.
+<img width="2554" height="1403" alt="Dashboard" src="https://github.com/user-attachments/assets/a72e868e-cc3d-45d3-a6a8-e19b4f321986" />
+<img width="2559" height="1405" alt="Configuration" src="https://github.com/user-attachments/assets/111b48f4-dd35-4786-92f8-aa6027943207" />
+<img width="2557" height="1404" alt="Authentication" src="https://github.com/user-attachments/assets/3a00cb9b-0268-48c6-8945-9302846e3ea0" />
+<img width="2553" height="1387" alt="Identity" src="https://github.com/user-attachments/assets/7bc914e5-4800-4d89-85fc-1a926915205f" />
+<img width="2550" height="1399" alt="Buttons Shortcuts" src="https://github.com/user-attachments/assets/133ab3f4-05ba-4c28-a650-204bc866ae5a" />
+<img width="2554" height="1402" alt="firmware Tools" src="https://github.com/user-attachments/assets/5e51032b-719d-4c0c-8ae2-d8515236b7d8" />
 
 Developed by Vegueta1
